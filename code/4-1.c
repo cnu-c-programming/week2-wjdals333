@@ -19,7 +19,7 @@ int main()
     {
         printf("%d", a * b);
     }
-    else if (operator == '/)
+    else if (operator == '/')
     {
         printf("%d", a / b);
     }
