@@ -22,10 +22,10 @@ int main()
 
     if (is_prime == 1)
     {
-        printf("true");
+        printf("true\n");
     }
     else {
-        printf("false");
+        printf("false\n");
     }
     
     return 0;
